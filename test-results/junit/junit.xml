@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="10" failures="0" errors="0" time="2.545">
+  <testsuite name="Update user" errors="0" failures="0" skipped="0" timestamp="2026-03-15T22:02:32" time="1.273" tests="2">
+    <testcase classname="Update user Update a user with PUT" name="Update user Update a user with PUT" time="0.189">
+    </testcase>
+    <testcase classname="Update user Update a user with PATCH" name="Update user Update a user with PATCH" time="0.068">
+    </testcase>
+  </testsuite>
+  <testsuite name="Login" errors="0" failures="0" skipped="0" timestamp="2026-03-15T22:02:33" time="0.227" tests="2">
+    <testcase classname="Login Login successfully" name="Login Login successfully" time="0.054">
+    </testcase>
+    <testcase classname="Login Login fails when password is missing" name="Login Login fails when password is missing" time="0.067">
+    </testcase>
+  </testsuite>
+  <testsuite name="Create user" errors="0" failures="0" skipped="0" timestamp="2026-03-15T22:02:33" time="0.142" tests="1">
+    <testcase classname="Create user Create a new user successfully" name="Create user Create a new user successfully" time="0.046">
+    </testcase>
+  </testsuite>
+  <testsuite name="Single resource" errors="0" failures="0" skipped="0" timestamp="2026-03-15T22:02:33" time="0.162" tests="1">
+    <testcase classname="Single resource Retrieve a single resource successfully" name="Single resource Retrieve a single resource successfully" time="0.068">
+    </testcase>
+  </testsuite>
+  <testsuite name="Register" errors="0" failures="0" skipped="0" timestamp="2026-03-15T22:02:33" time="0.29" tests="2">
+    <testcase classname="Register Register successfully" name="Register Register successfully" time="0.045">
+    </testcase>
+    <testcase classname="Register Register fails when password is missing" name="Register Register fails when password is missing" time="0.052">
+    </testcase>
+  </testsuite>
+  <testsuite name="List resources" errors="0" failures="0" skipped="0" timestamp="2026-03-15T22:02:34" time="0.167" tests="1">
+    <testcase classname="List resources Retrieve resources successfully" name="List resources Retrieve resources successfully" time="0.073">
+    </testcase>
+  </testsuite>
+  <testsuite name="Delete user" errors="0" failures="0" skipped="0" timestamp="2026-03-15T22:02:34" time="0.136" tests="1">
+    <testcase classname="Delete user Delete a user successfully" name="Delete user Delete a user successfully" time="0.041">
+    </testcase>
+  </testsuite>
+</testsuites>
